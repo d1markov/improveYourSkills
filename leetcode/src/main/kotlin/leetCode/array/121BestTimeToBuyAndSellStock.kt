@@ -1,4 +1,4 @@
-package leetCode
+package leetCode.array
 
 fun main() {
     var image: Array<IntArray> = arrayOf(intArrayOf(1, 2, 7))

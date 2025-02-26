@@ -1,4 +1,4 @@
-package leetCode
+package leetCode.binaryTree
 
 fun main() {
 

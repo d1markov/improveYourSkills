@@ -1,4 +1,4 @@
-package leetCode.seventy5
+package leetCode.string
 
 fun main() {
     // println(gcdOfStringsV2("ABCZQPAJW","ABCEIBEBVUEJZQPABOBCZQ" ))

@@ -1,4 +1,4 @@
-package leetCode
+package leetCode.array
 
 fun main() {
     println(1f%2f)

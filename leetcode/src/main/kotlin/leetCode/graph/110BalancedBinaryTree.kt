@@ -1,6 +1,6 @@
 package leetCode.graph
 
-import leetCode.TreeNode
+import leetCode.binaryTree.TreeNode
 import kotlin.math.absoluteValue
 
 

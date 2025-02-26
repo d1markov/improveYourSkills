@@ -1,4 +1,4 @@
-package leetCode.seventy5
+package leetCode.linkedList
 
 fun main() {
     val list1 = ListNode(2)
