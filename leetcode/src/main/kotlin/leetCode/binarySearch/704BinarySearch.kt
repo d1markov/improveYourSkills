@@ -1,4 +1,4 @@
-package leetCode
+package leetCode.binarySearch
 
 fun main() {
     val nums: IntArray = intArrayOf(-1, 6, 7, 8, 10, 19) //size = 4, lastindex = 3

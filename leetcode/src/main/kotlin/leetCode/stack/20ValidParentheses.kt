@@ -1,4 +1,4 @@
-package leetCode.seventy5
+package leetCode.stack
 
 fun main() {
 

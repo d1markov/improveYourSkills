@@ -1,4 +1,4 @@
-package leetCode
+package leetCode.array
 
 fun main() {
     moveZeroesV2(intArrayOf(0, 1, 0, 0, 12))

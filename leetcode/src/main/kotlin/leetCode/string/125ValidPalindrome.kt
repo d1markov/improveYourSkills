@@ -1,4 +1,4 @@
-package leetCode
+package leetCode.string
 
 fun main() {
     val s =  " "
