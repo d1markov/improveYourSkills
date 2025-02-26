@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="improveYourSkills.kotlin-code-parcer" target="11" />
+      <module name="improveYourSkills.kotlin-code-parcer.main" target="11" />
+      <module name="improveYourSkills.kotlin-code-parcer.test" target="11" />
+      <module name="improveYourSkills.kotlin-interview.main" target="17" />
+      <module name="improveYourSkills.kotlin-interview.test" target="17" />
+      <module name="improveYourSkills.kotlinIR" target="11" />
+      <module name="improveYourSkills.kotlinIR.main" target="11" />
+      <module name="improveYourSkills.kotlinIR.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
